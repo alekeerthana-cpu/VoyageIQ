@@ -1,0 +1,8 @@
+{
+  "name": "VoyageIQ",
+  "description": "AI-Powered Travel Behavior & Intelligence Platform with personalized recommendations, behavioral analytics, and interactive trip planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
